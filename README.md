@@ -32,18 +32,18 @@ To be able to participate in the hands-on sessions during the workshop you will 
 The material and all the instructions will be publicly available on a dedicated Github repository. The repository will be announced at the workshop. You are invited to contribute, open issues and ask questions there after the workshop. The final materials will be published after the workshop day.
 
 **Timetable**  
-9:00-10:00 Introduction to Digital Forensics and Incident Response, Trending Research Areas,
-10:00-10:30 Data acquisition and Verification,
-10:30-11:00 Hands-on: Disk Imaging, Mounting, and Hashing,
-11:00-11:15 Coffee Break
-11:15-11:30 File Carving and File Analysis
-11:30-12:00 Hands-on: File carving, recovering deleted files, and file Analysis
-12:00-13:00 Hands-on: Working with Autopsy, Searching and indexing,6
-13:00-14:00 Lunch
-14:00-14:30 Artifacts: Internet history, Thumbnails, Prefetch Files, Basic Windows Registry Analysis,
-14:30-15:30 Hands-on: Analyzing Windows Forensic Artifacts
-15:30-16:30 Extra: DFIR Triage: From Collection to Analysis.
-16:30-17:00 Conclusions, Closing Remarks, Q&A Session
+9:00-10:00 Introduction to Digital Forensics and Incident Response, Trending Research Areas  
+10:00-10:30 Data acquisition and Verification  
+10:30-11:00 Hands-on: Disk Imaging, Mounting, and Hashing  
+11:00-11:15 Coffee Break  
+11:15-11:30 File Carving and File Analysis  
+11:30-12:00 Hands-on: File carving, recovering deleted files, and file Analysis  
+12:00-13:00 Hands-on: Working with Autopsy, Searching and indexing  
+13:00-14:00 Lunch  
+14:00-14:30 Artifacts: Internet history, Thumbnails, Prefetch Files, Basic Windows Registry Analysis  
+14:30-15:30 Hands-on: Analyzing Windows Forensic Artifacts  
+15:30-16:30 Extra: DFIR Triage: From Collection to Analysis  
+16:30-17:00 Conclusions, Closing Remarks, Q&A Session  
 
 **Outcomes**  
 By the end of this workshop, attendees will:
